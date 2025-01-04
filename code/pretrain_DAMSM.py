@@ -197,7 +197,8 @@ def build_models():
 
 if __name__ == "__main__":
 
-    os.chdir(r"/home/rookie/cwt/ControlGAN/code")  # 修改当前工作目录
+    os.chdir(r"/home/vmuser/LAGAN/code")
+
 
     print(os.getcwd())  # 获取当前工作目录
 
